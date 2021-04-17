@@ -12,4 +12,4 @@ Pages are attractive because of
 but there is use of bootstrap as well<br/>
 This app is fully ready that we can order, update and maintain the cart as well. <br/>
 Like CarDealer project here **SESSION** helping in making orders easy for us.
-![js]https://github.com/sagarwipro/sagarwipro.github.io/images/js.jpg?raw=true) **JS** ,**JQery** are used for functionalities like filter, page redirection and others.<br/>
+![js](https://github.com/sagarwipro/sagarwipro.github.io/images/js.jpg?raw=true) **JS** ,**JQery** are used for functionalities like filter, page redirection and others.<br/>
