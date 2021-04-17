@@ -5,11 +5,11 @@ It has full stack application where we have used AJAX,MySQL,JSON,HTML,CSS,JS, JQ
 many other integration.<br/>
 Here we are using paypal gateway for payment method and using database to update the buying
 amount.<br/>
-![mysql](https://github.com/sagarwipro/sagarwipro.github.io/blob/master/images/mysql.png?raw=true)
+<img src="https://github.com/sagarwipro/sagarwipro.github.io/blob/master/images/mysql.png" width="200">
 **MySQL** is used for products and their records, and getting data according to the filters we have used here.<br/>
 Pages are attractive because of 
-![CSS](https://github.com/sagarwipro/sagarwipro.github.io/blob/master/images/css.png?raw=true) **CSS** 
+<img src="https://github.com/sagarwipro/sagarwipro.github.io/blob/master/images/css.png" width="200"> **CSS** 
 but there is use of bootstrap as well<br/>
 This app is fully ready that we can order, update and maintain the cart as well. <br/>
 Like CarDealer project here **SESSION** helping in making orders easy for us.
-![js](https://github.com/sagarwipro/sagarwipro.github.io/blob/master/images/js.jpg?raw=true) **JS** ,**JQery** are used for functionalities like filter, page redirection and others.<br/>
+<img src="https://github.com/sagarwipro/sagarwipro.github.io/blob/master/images/js.jpg" width="200"> **JS** ,**JQery** are used for functionalities like filter, page redirection and others.<br/>
